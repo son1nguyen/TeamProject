@@ -1,0 +1,25 @@
+EWR	Newark;	40.70	74.17
+ATL	Atlanta;	33.65	84.42
+IAD	Washington DC;	38.94	77.50
+DTW	Detroit;	42.21	83.35
+LAX	Los Angeles;	33.93	118.40
+SJC	San Jose;	37.36	121.92
+ABC	Super Team;	0.00	0.00
+LGA	New York;	40.77	73.90
+CLT	Charlotte;	35.21	80.90
+SFO	San Francisco;	37.75	122.68
+SLC	Salt Lake City;	40.79	111.98
+BOS	Boston;	42.36	71.01
+ORD	Chicago;	41.98	87.90
+LAS	Las Vegas;	36.08	115.15
+PHL	Philadelphia;	39.87	75.24
+MIA	Miami;	25.80	80.29
+MSP	Minneapolis;	44.88	93.22
+SAN	San Diego;	32.73	117.19
+TPA	Tampa;	27.98	82.53
+DEN	Denver;	39.75	104.87
+JFK	New York;	40.60	73.78
+HNL	Honolulu;	21.32	157.92
+DFW	Dallas Fort Worth;	32.73	96.97
+PHX	Phoenix;	33.43	112.01
+SEA	Seattle;	47.45	122.30

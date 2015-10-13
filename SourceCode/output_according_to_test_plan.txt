@@ -1,0 +1,369 @@
+Enter 'A' to add new data
+      'D' to delete data
+      'F' to find data
+      'L' to list data in hash table sequence
+      'K' to list data in key sequence
+      'P' to print the tree
+      'W' to write data to a file
+      'E' to calculate efficiency
+      'Q' to quit
+l
+  0 MCO Orlando            28.43 81.32
+  0 EWR Newark             40.70 74.17
+  0 ORD Chicago            41.98 87.90
+  2 LAS Las Vegas          36.08 115.15
+  4 ATL Atlanta            33.65 84.42
+  5 PHL Philadelphia       39.87 75.24
+  8 IAD Washington DC      38.94 77.50
+ 10 MIA Miami              25.80 80.29
+ 10 MSP Minneapolis        44.88 93.22
+ 10 DTW Detroit            42.21 83.35
+ 12 LAX Los Angeles        33.93 118.40
+ 18 SAN San Diego          32.73 117.19
+ 18 TPA Tampa              27.98 82.53
+ 20 SJC San Jose           37.36 121.92
+ 22 DEN Denver             39.75 104.87
+ 28 LGA New York           40.77 73.90
+ 28 JFK New York           40.60 73.78
+ 30 CLT Charlotte          35.21 80.90
+ 35 HNL Honolulu           21.32 157.92
+ 36 SFO San Francisco      37.75 122.68
+ 40 DFW Dallas Fort Worth  32.73 96.97
+ 40 SLC Salt Lake City     40.79 111.98
+ 45 PHX Phoenix            33.43 112.01
+ 46 SEA Seattle            47.45 122.30
+ 48 BOS Boston             42.36 71.01
+Enter 'A' to add new data
+      'D' to delete data
+      'F' to find data
+      'L' to list data in hash table sequence
+      'K' to list data in key sequence
+      'P' to print the tree
+      'W' to write data to a file
+      'E' to calculate efficiency
+      'Q' to quit
+k
+ATL Atlanta            33.65 84.42
+BOS Boston             42.36 71.01
+CLT Charlotte          35.21 80.90
+DEN Denver             39.75 104.87
+DFW Dallas Fort Worth  32.73 96.97
+DTW Detroit            42.21 83.35
+EWR Newark             40.70 74.17
+HNL Honolulu           21.32 157.92
+IAD Washington DC      38.94 77.50
+JFK New York           40.60 73.78
+LAS Las Vegas          36.08 115.15
+LAX Los Angeles        33.93 118.40
+LGA New York           40.77 73.90
+MCO Orlando            28.43 81.32
+MIA Miami              25.80 80.29
+MSP Minneapolis        44.88 93.22
+ORD Chicago            41.98 87.90
+PHL Philadelphia       39.87 75.24
+PHX Phoenix            33.43 112.01
+SAN San Diego          32.73 117.19
+SEA Seattle            47.45 122.30
+SFO San Francisco      37.75 122.68
+SJC San Jose           37.36 121.92
+SLC Salt Lake City     40.79 111.98
+TPA Tampa              27.98 82.53
+Enter 'A' to add new data
+      'D' to delete data
+      'F' to find data
+      'L' to list data in hash table sequence
+      'K' to list data in key sequence
+      'P' to print the tree
+      'W' to write data to a file
+      'E' to calculate efficiency
+      'Q' to quit
+p
+         TPA
+      SLC
+         SJC
+   SFO
+SEA
+            SAN
+               PHX
+                  PHL
+         ORD
+               MSP
+            MIA
+      MCO
+         LGA
+   LAX
+         LAS
+            JFK
+                  IAD
+                     HNL
+               EWR
+                  DTW
+      DFW
+            DEN
+               CLT
+                  BOS
+         ATL
+
+Enter 'A' to add new data
+      'D' to delete data
+      'F' to find data
+      'L' to list data in hash table sequence
+      'K' to list data in key sequence
+      'P' to print the tree
+      'W' to write data to a file
+      'E' to calculate efficiency
+      'Q' to quit
+a
+Enter airport code: lax
+This airport already exists
+LAX Los Angeles        33.93 118.40
+Enter 'A' to add new data
+      'D' to delete data
+      'F' to find data
+      'L' to list data in hash table sequence
+      'K' to list data in key sequence
+      'P' to print the tree
+      'W' to write data to a file
+      'E' to calculate efficiency
+      'Q' to quit
+a
+Enter airport code: asdf
+Your airport code has to have 3 characters
+Enter 'A' to add new data
+      'D' to delete data
+      'F' to find data
+      'L' to list data in hash table sequence
+      'K' to list data in key sequence
+      'P' to print the tree
+      'W' to write data to a file
+      'E' to calculate efficiency
+      'Q' to quit
+a
+Enter airport code: abc
+Enter airport city: Super Team
+Enter airport latitude: asdf
+Invalid input, please try entering the latitude again: 000.00
+Enter airport longitude: asdf
+Invalid input, please try entering the longitude again: 000.00
+
+ Succesfully added data.
+
+Enter 'A' to add new data
+      'D' to delete data
+      'F' to find data
+      'L' to list data in hash table sequence
+      'K' to list data in key sequence
+      'P' to print the tree
+      'W' to write data to a file
+      'E' to calculate efficiency
+      'Q' to quit
+l
+  0 MCO Orlando            28.43 81.32
+  0 EWR Newark             40.70 74.17
+  0 ORD Chicago            41.98 87.90
+  2 LAS Las Vegas          36.08 115.15
+  4 ATL Atlanta            33.65 84.42
+  5 PHL Philadelphia       39.87 75.24
+  8 IAD Washington DC      38.94 77.50
+ 10 MIA Miami              25.80 80.29
+ 10 MSP Minneapolis        44.88 93.22
+ 10 DTW Detroit            42.21 83.35
+ 12 LAX Los Angeles        33.93 118.40
+ 18 SAN San Diego          32.73 117.19
+ 18 TPA Tampa              27.98 82.53
+ 20 SJC San Jose           37.36 121.92
+ 20 ABC Super Team         0.00  0.00
+ 22 DEN Denver             39.75 104.87
+ 28 LGA New York           40.77 73.90
+ 28 JFK New York           40.60 73.78
+ 30 CLT Charlotte          35.21 80.90
+ 35 HNL Honolulu           21.32 157.92
+ 36 SFO San Francisco      37.75 122.68
+ 40 DFW Dallas Fort Worth  32.73 96.97
+ 40 SLC Salt Lake City     40.79 111.98
+ 45 PHX Phoenix            33.43 112.01
+ 46 SEA Seattle            47.45 122.30
+ 48 BOS Boston             42.36 71.01
+Enter 'A' to add new data
+      'D' to delete data
+      'F' to find data
+      'L' to list data in hash table sequence
+      'K' to list data in key sequence
+      'P' to print the tree
+      'W' to write data to a file
+      'E' to calculate efficiency
+      'Q' to quit
+f
+Enter the airport code: DEF
+No airport exists
+Enter 'A' to add new data
+      'D' to delete data
+      'F' to find data
+      'L' to list data in hash table sequence
+      'K' to list data in key sequence
+      'P' to print the tree
+      'W' to write data to a file
+      'E' to calculate efficiency
+      'Q' to quit
+f
+Enter the airport code: sjc
+SJC San Jose           37.36 121.92
+Enter 'A' to add new data
+      'D' to delete data
+      'F' to find data
+      'L' to list data in hash table sequence
+      'K' to list data in key sequence
+      'P' to print the tree
+      'W' to write data to a file
+      'E' to calculate efficiency
+      'Q' to quit
+f
+Enter the airport code: ord
+ORD Chicago            41.98 87.90
+Enter 'A' to add new data
+      'D' to delete data
+      'F' to find data
+      'L' to list data in hash table sequence
+      'K' to list data in key sequence
+      'P' to print the tree
+      'W' to write data to a file
+      'E' to calculate efficiency
+      'Q' to quit
+l
+  0 MCO Orlando            28.43 81.32
+  0 ORD Chicago            41.98 87.90
+  0 EWR Newark             40.70 74.17
+  2 LAS Las Vegas          36.08 115.15
+  4 ATL Atlanta            33.65 84.42
+  5 PHL Philadelphia       39.87 75.24
+  8 IAD Washington DC      38.94 77.50
+ 10 MIA Miami              25.80 80.29
+ 10 MSP Minneapolis        44.88 93.22
+ 10 DTW Detroit            42.21 83.35
+ 12 LAX Los Angeles        33.93 118.40
+ 18 SAN San Diego          32.73 117.19
+ 18 TPA Tampa              27.98 82.53
+ 20 SJC San Jose           37.36 121.92
+ 20 ABC Super Team         0.00  0.00
+ 22 DEN Denver             39.75 104.87
+ 28 LGA New York           40.77 73.90
+ 28 JFK New York           40.60 73.78
+ 30 CLT Charlotte          35.21 80.90
+ 35 HNL Honolulu           21.32 157.92
+ 36 SFO San Francisco      37.75 122.68
+ 40 DFW Dallas Fort Worth  32.73 96.97
+ 40 SLC Salt Lake City     40.79 111.98
+ 45 PHX Phoenix            33.43 112.01
+ 46 SEA Seattle            47.45 122.30
+ 48 BOS Boston             42.36 71.01
+Enter 'A' to add new data
+      'D' to delete data
+      'F' to find data
+      'L' to list data in hash table sequence
+      'K' to list data in key sequence
+      'P' to print the tree
+      'W' to write data to a file
+      'E' to calculate efficiency
+      'Q' to quit
+d
+Enter the airport code: MCO
+
+ Succesfully deleted data.
+
+Enter 'A' to add new data
+      'D' to delete data
+      'F' to find data
+      'L' to list data in hash table sequence
+      'K' to list data in key sequence
+      'P' to print the tree
+      'W' to write data to a file
+      'E' to calculate efficiency
+      'Q' to quit
+l
+  0 ORD Chicago            41.98 87.90
+  0 EWR Newark             40.70 74.17
+  2 LAS Las Vegas          36.08 115.15
+  4 ATL Atlanta            33.65 84.42
+  5 PHL Philadelphia       39.87 75.24
+  8 IAD Washington DC      38.94 77.50
+ 10 MIA Miami              25.80 80.29
+ 10 MSP Minneapolis        44.88 93.22
+ 10 DTW Detroit            42.21 83.35
+ 12 LAX Los Angeles        33.93 118.40
+ 18 SAN San Diego          32.73 117.19
+ 18 TPA Tampa              27.98 82.53
+ 20 SJC San Jose           37.36 121.92
+ 20 ABC Super Team         0.00  0.00
+ 22 DEN Denver             39.75 104.87
+ 28 LGA New York           40.77 73.90
+ 28 JFK New York           40.60 73.78
+ 30 CLT Charlotte          35.21 80.90
+ 35 HNL Honolulu           21.32 157.92
+ 36 SFO San Francisco      37.75 122.68
+ 40 DFW Dallas Fort Worth  32.73 96.97
+ 40 SLC Salt Lake City     40.79 111.98
+ 45 PHX Phoenix            33.43 112.01
+ 46 SEA Seattle            47.45 122.30
+ 48 BOS Boston             42.36 71.01
+Enter 'A' to add new data
+      'D' to delete data
+      'F' to find data
+      'L' to list data in hash table sequence
+      'K' to list data in key sequence
+      'P' to print the tree
+      'W' to write data to a file
+      'E' to calculate efficiency
+      'Q' to quit
+e
+
+The load factor is 36.00%.
+The number of hash nodes used is 18.
+The total size of hash is 50.
+The total collision count is 7.
+The longest linked list is 2 nodes long.
+The average number of nodes in a list is 1.17.
+
+Enter 'A' to add new data
+      'D' to delete data
+      'F' to find data
+      'L' to list data in hash table sequence
+      'K' to list data in key sequence
+      'P' to print the tree
+      'W' to write data to a file
+      'E' to calculate efficiency
+      'Q' to quit
+h
+Type 'I' to increase the size of the hash or 'D' to decrease the size of the has
+h: i
+Enter 'A' to add new data
+      'D' to delete data
+      'F' to find data
+      'L' to list data in hash table sequence
+      'K' to list data in key sequence
+      'P' to print the tree
+      'W' to write data to a file
+      'E' to calculate efficiency
+      'Q' to quit
+e
+
+The load factor is 22.00%.
+The number of hash nodes used is 22.
+The total size of hash is 100.
+The total collision count is 3.
+The longest linked list is 1 nodes long.
+The average number of nodes in a list is 1.00.
+
+Enter 'A' to add new data
+      'D' to delete data
+      'F' to find data
+      'L' to list data in hash table sequence
+      'K' to list data in key sequence
+      'P' to print the tree
+      'W' to write data to a file
+      'E' to calculate efficiency
+      'Q' to quit
+q
+
+Saving data ...
+Successfully saved
+No Memory Leak

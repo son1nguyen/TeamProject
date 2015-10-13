@@ -1,0 +1,25 @@
+SEA	Seattle;	47.45	122.3
+SFO	San Francisco;	37.75	122.68
+LAX	Los Angeles;	33.93	118.4
+DFW	Dallas Fort Worth;	32.73	96.97
+MCO	Orlando;	28.43	81.32
+ATL	Atlanta;	33.65	84.42
+SLC	Salt Lake City;	40.79	111.98
+LGA	New York;	40.77	73.9
+ORD	Chicago;	41.98	87.9
+DEN	Denver;	39.75	104.87
+SJC	San Jose;	37.36	121.92
+SAN	San Diego;	32.73	117.19
+LAS	Las Vegas;	36.08	115.15
+JFK	New York;	40.6	73.78
+MIA	Miami;	25.8	80.29
+CLT	Charlotte;	35.21	80.9
+PHX	Phoenix;	33.43	112.01
+EWR	Newark;	40.7	74.17
+DTW	Detroit;	42.21	83.35
+IAD	Washington DC;	38.94	77.5
+HNL	Honolulu;	21.32	157.92
+TPA	Tampa;	27.98	82.53
+BOS	Boston;	42.36	71.01
+MSP	Minneapolis;	44.88	93.22
+PHL	Philadelphia;	39.87	75.24
